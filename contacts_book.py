@@ -32,7 +32,4 @@ class PhoneBook:
 contacts = PhoneBook()
 contacts.add_contacts(["tintint",567447353,"tintinty@yahoo.com","california"])
 contacts.add_contacts(["aliyasur",88253749,"aliyasiry@yahoo.com","karachi"])
-# contacts.delete_contact("aliyasur")
-# contacts.view_contacts()
-# print(contacts.search_contact(5674473))
 contacts.view_contacts()
